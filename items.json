@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "id": 871,
+      "name": "Лён",
+      "category": "material",
+      "rarity": "common",
+      "craft_price": 100,
+      "craft_chance": 90,
+      "description": "Используется для создания одежды",
+      "is_protected": false
+    },
+    {
+      "id": 826,
+      "name": "Хлопок",
+      "category": "material",
+      "rarity": "common",
+      "craft_price": 120,
+      "craft_chance": 90,
+      "description": "Используется для создания одежды",
+      "is_protected": false
+    },
+    {
+      "id": 11741,
+      "name": "Зловещая монета",
+      "category": "currency",
+      "rarity": "rare",
+      "craft_price": 5000,
+      "craft_chance": 30,
+      "description": "Древняя монета с тёмной энергией",
+      "is_protected": true
+    },
+    {
+      "id": 1463,
+      "name": "Дрова",
+      "category": "resource",
+      "rarity": "common",
+      "craft_price": 50,
+      "craft_chance": 95,
+      "description": "Древесина для костра и построек",
+      "is_protected": false
+    },
+    {
+      "id": 2790,
+      "name": "Алюминий",
+      "category": "ore",
+      "rarity": "uncommon",
+      "craft_price": 250,
+      "craft_chance": 75,
+      "description": "Лёгкий металл для крафта",
+      "is_protected": false
+    },
+    {
+      "id": 19941,
+      "name": "Золото",
+      "category": "ore",
+      "rarity": "rare",
+      "craft_price": 1000,
+      "craft_chance": 50,
+      "description": "Драгоценный металл",
+      "is_protected": true
+    },
+    {
+      "id": 1304,
+      "name": "Металл",
+      "category": "material",
+      "rarity": "common",
+      "craft_price": 80,
+      "craft_chance": 85,
+      "description": "Металлические заготовки",
+      "is_protected": false
+    },
+    {
+      "id": 859,
+      "name": "Счастливая травка",
+      "category": "herb",
+      "rarity": "rare",
+      "craft_price": 750,
+      "craft_chance": 60,
+      "description": "Редкое растение с особыми свойствами",
+      "is_protected": true
+    },
+    {
+      "id": 19843,
+      "name": "Материалы",
+      "category": "crafting",
+      "rarity": "common",
+      "craft_price": 200,
+      "craft_chance": 80,
+      "description": "Расходные материалы для крафта",
+      "is_protected": false
+    },
+    {
+      "id": 18874,
+      "name": "Телефон",
+      "category": "electronic",
+      "rarity": "uncommon",
+      "craft_price": 1500,
+      "craft_chance": 65,
+      "description": "Средство связи",
+      "is_protected": true
+    }
+  ],
+  "version": "2.2",
+  "last_updated": "2026-01-15",
+  "categories": {
+    "material": "Материалы",
+    "ore": "Руды",
+    "herb": "Травы",
+    "electronic": "Электроника",
+    "currency": "Валюта",
+    "resource": "Ресурсы",
+    "crafting": "Крафт"
+  },
+  "rarity_colors": {
+    "common": "#FFFFFF",
+    "uncommon": "#00FF00",
+    "rare": "#0099FF",
+    "epic": "#9900FF",
+    "legendary": "#FF9900"
+  }
+}
