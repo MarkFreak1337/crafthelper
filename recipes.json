@@ -1,0 +1,41 @@
+{
+  "version": "2.2",
+  "recipes": [
+    {
+      "result_id": 11741,
+      "result_name": "Зловещая монета",
+      "result_count": 1,
+      "price_per_craft": 1000,
+      "requirements": [
+        {"item_id": 826, "name": "Хлопок", "count": 25},
+        {"item_id": 871, "name": "Лён", "count": 25}
+      ],
+      "min_level": 1,
+      "skill_required": "crafting"
+    },
+    {
+      "result_id": 19941,
+      "result_name": "Золото",
+      "result_count": 1,
+      "price_per_craft": 500,
+      "requirements": [
+        {"item_id": 2790, "name": "Алюминий", "count": 10},
+        {"item_id": 1304, "name": "Металл", "count": 15}
+      ],
+      "min_level": 5,
+      "skill_required": "smithing"
+    },
+    {
+      "result_id": 859,
+      "result_name": "Счастливая травка",
+      "result_count": 1,
+      "price_per_craft": 750,
+      "requirements": [
+        {"item_id": 1463, "name": "Дрова", "count": 5},
+        {"item_id": 826, "name": "Хлопок", "count": 8}
+      ],
+      "min_level": 3,
+      "skill_required": "herbalism"
+    }
+  ]
+}
